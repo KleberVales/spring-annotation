@@ -24,3 +24,19 @@ Neste trabalho, foram abordados os conceitos de **configuração baseada em anot
 ---
 
 ## 📂 Estrutura do projeto
+
+```
+spring-annotations/
+└── src/
+└── main/
+├── java/com.example.springannotations/
+│ ├── SpringAnnotationsApplication.java
+│ ├── service/
+│ │ └── UserService.java
+│ ├── repository/
+│ │ └── UserRepository.java
+│ └── lifecycle/
+│ └── LifecycleBean.java
+└── resources/
+└── application.yml (opcional)
+```
