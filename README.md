@@ -78,4 +78,12 @@ spring-annotations/
 🧹 Bean será destruído com @PreDestroy.
 ```
 
+**Kleber Vales**  
+
+*Back-end Software Engineer*  
+Java + Spring Boot| Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
+
+Bacharel em Ciência da Computação  
+MBA em Desenvolvimento de Software (Cursando)
+
    
