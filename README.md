@@ -69,4 +69,13 @@ spring-annotations/
 ./gradlew bootRun
 ```
 
+3. Verifique a saída no console:
+
+```java
+🚀 Bean inicializado com @PostConstruct.
+✅ UserService executando lógica de serviço.
+📦 Conectando ao repositório de dados.
+🧹 Bean será destruído com @PreDestroy.
+```
+
    
