@@ -55,3 +55,12 @@ spring-annotations/
 | Component Scanning   | Spring detecta automaticamente os beans nos pacotes |
 
 ---
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/spring-annotations.git
+   cd spring-annotations
+
+   
