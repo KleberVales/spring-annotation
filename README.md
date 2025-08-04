@@ -63,4 +63,10 @@ spring-annotations/
    git clone https://github.com/seu-usuario/spring-annotations.git
    cd spring-annotations
 
+2. Execute o projeto:
+
+```bash
+./gradlew bootRun
+```
+
    
