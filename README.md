@@ -40,3 +40,18 @@ spring-annotations/
 └── resources/
 └── application.yml (opcional)
 ```
+
+---
+
+## 📘 Conceitos aplicados
+
+| Conceito             | Explicação breve                                    |
+|----------------------|------------------------------------------------------|
+| `@Component`         | Marca a classe como bean gerenciado pelo Spring     |
+| `@Service`           | Especialização de `@Component` para lógica de negócio |
+| `@Repository`        | Especialização de `@Component` para persistência     |
+| `@PostConstruct`     | Executado logo após o bean ser instanciado          |
+| `@PreDestroy`        | Executado antes do bean ser destruído               |
+| Component Scanning   | Spring detecta automaticamente os beans nos pacotes |
+
+---
