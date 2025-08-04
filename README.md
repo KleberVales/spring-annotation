@@ -20,3 +20,7 @@ Neste trabalho, foram abordados os conceitos de **configuração baseada em anot
 - Spring Boot 3.5.x
 - Gradle (Kotlin DSL)
 - IntelliJ IDEA
+
+---
+
+## 📂 Estrutura do projeto
