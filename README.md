@@ -77,7 +77,7 @@ spring-annotations/
 📦 Conectando ao repositório de dados.
 🧹 Bean será destruído com @PreDestroy.
 ```
-
+---
 **Kleber Vales**  
 
 *Back-end Software Engineer*  
